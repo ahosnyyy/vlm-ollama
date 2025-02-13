@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+ollama
+opencv-python
+numpy
+tensorflow
+Pillow
+requests
+tqdm
